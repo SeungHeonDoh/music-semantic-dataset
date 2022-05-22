@@ -15,8 +15,8 @@ There are now too many datasets and too many data splits. Because of this, if yo
 
 |   Datasets   |   Size  | hour | # of Tag | Avg.Tag | Genre | Style | Inst. | Vocal | Mood | Theme | Culture |
 |:------------:|:-------:|:----:|:--------:|:-------:|:-----:|:-----:|:-----:|:-----:|:----:|:-----:|:-------:|
-|  MSD-Lastfm  | 632,328 | 5269 |    50    |   9.33  |   ✅   |       |   ✅   |   ✅   |   ✅  |       |         |
-| MSD-AllMusic |         |      |   1402   |         |   ✅   |   ✅   |       |       |   ✅  |   ✅   |         |
+|  MSD-Lastfm  | 241,889 |  |    50    |     |   ✅   |       |   ✅   |   ✅   |   ✅  |       |         |
+| MSD-AllMusic | 503,806 |      |   1402   |         |   ✅   |   ✅   |       |       |   ✅  |   ✅   |         |
 |    MSD-500   |         |      |    500   |         |   ✅   |   ✅   |   ✅   |   ✅   |   ✅  |   ✅   |    ✅    |
 |      FMA     | 104,186 |  868 |    161   |   3.34  |   ✅   |       |       |       |      |       |    ✅    |
 |      MTG     |  55,525 |  463 |    183   |   4.15  |   ✅   |       |   ✅   |       |   ✅  |   ✅   |         |
