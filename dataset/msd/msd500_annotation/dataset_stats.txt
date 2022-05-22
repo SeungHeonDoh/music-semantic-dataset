@@ -1,0 +1,11 @@
+Tags 500
+[('genre', 294), ('mood/character', 94), ('location', 36), ('language/origin', 34), ('instrument', 21), ('activity', 14), ('decade', 7)]
+Tracks 158323
+Annotations 492742
+Annotations per track 3.11225785261775
+Number of lastfm tags 1352
+
+Restrictions:
+Minimum 100 tracks per Tag
+used only tracks with equal or less than 20 tags originally
+Minimum last.fm tag score 1

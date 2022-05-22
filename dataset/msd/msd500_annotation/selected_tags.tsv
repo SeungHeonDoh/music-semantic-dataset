@@ -1,0 +1,500 @@
+rock	genre
+pop	genre
+indie	genre
+alternative	genre
+electronic	genre
+hip-hop	genre
+metal	genre
+jazz	genre
+punk	genre
+folk	genre
+alternative rock	genre
+indie rock	genre
+dance	genre
+hard rock	genre
+00s	decade
+soul	genre
+hardcore	genre
+80s	decade
+country	genre
+classic rock	genre
+punk rock	genre
+blues	genre
+chillout	mood/character
+experimental	genre
+heavy metal	genre
+death metal	genre
+90s	decade
+reggae	genre
+progressive rock	genre
+ambient	genre
+acoustic	mood/character
+beautiful	mood/character
+british	language/origin
+rnb	genre
+funk	genre
+metalcore	genre
+mellow	mood/character
+world	genre
+guitar	instrument
+trance	genre
+indie pop	genre
+christian	genre
+house	genre
+spanish	language/origin
+latin	genre
+psychedelic	genre
+electro	genre
+piano	instrument
+70s	decade
+progressive metal	genre
+thrash metal	genre
+blues rock	genre
+american	language/origin
+french	language/origin
+ska	genre
+post-hardcore	genre
+new wave	genre
+pop rock	genre
+post-punk	genre
+german	language/origin
+industrial	genre
+emo	genre
+synthpop	genre
+60s	decade
+techno	genre
+rock n roll	genre
+smooth jazz	genre
+cool	genre
+swedish	language/origin
+folk rock	genre
+pop punk	genre
+alt-country	genre
+downtempo	genre
+power metal	genre
+black metal	genre
+canadian	language/origin
+easy listening	genre
+lounge	genre
+post-rock	genre
+progressive	genre
+trip-hop	genre
+fusion	genre
+drum and bass	genre
+americana	genre
+sad	mood/character
+christian rock	genre
+finnish	language/origin
+hardcore punk	genre
+fun	mood/character
+italian	genre
+dub	genre
+party	activity
+new age	genre
+sexy	mood/character
+comedy	genre
+screamo	genre
+catchy	mood/character
+grindcore	genre
+nu metal	genre
+avant-garde	genre
+happy	mood/character
+dancehall	genre
+celtic	genre
+gothic	mood/character
+bluegrass	genre
+melancholy	mood/character
+epic	mood/character
+psychedelic rock	genre
+brasil	location
+funky	mood/character
+relaxing	mood/character
+garage rock	genre
+power pop	genre
+doom metal	genre
+ebm	genre
+darkwave	genre
+britpop	genre
+minimal	genre
+idm	genre
+stoner rock	genre
+ska punk	genre
+disco	genre
+irish	language/origin
+progressive trance	genre
+lo-fi	genre
+psytrance	genre
+usa	location
+dark	mood/character
+soft rock	genre
+shoegaze	genre
+brazilian	language/origin
+acid jazz	genre
+atmospheric	mood/character
+funny	mood/character
+romantic	mood/character
+gospel	genre
+rockabilly	genre
+noise	genre
+southern rock	genre
+deathcore	genre
+old school	genre
+smooth	mood/character
+worship	genre
+dream pop	genre
+jazz fusion	genre
+classical	genre
+alternative metal	genre
+industrial metal	genre
+garage	genre
+upbeat	mood/character
+african	language/origin
+salsa	genre
+feel good	mood/character
+grunge	genre
+dreamy	mood/character
+technical death metal	genre
+norwegian	language/origin
+roots reggae	genre
+electropop	genre
+sweet	mood/character
+australian	language/origin
+neo-soul	genre
+saxophone	instrument
+mpb	genre
+uk	location
+dubstep	genre
+classic	genre
+guitar virtuoso	genre
+glam rock	genre
+thrash	genre
+breakbeat	genre
+flamenco	genre
+bass	instrument
+club	activity
+noise rock	genre
+jazz funk	genre
+english	language/origin
+groove	genre
+art rock	genre
+gangsta rap	genre
+stand-up	genre
+melodic	mood/character
+soft	mood/character
+symphonic metal	genre
+bossa nova	genre
+folk metal	genre
+ethereal	mood/character
+50s	decade
+indie folk	genre
+energetic	mood/character
+speed metal	genre
+classic country	genre
+spanish rock	genre
+japanese	language/origin
+swing	genre
+interesting	mood/character
+progressive house	genre
+polish	language/origin
+hair metal	genre
+vocal jazz	genre
+country rock	genre
+psychobilly	genre
+dutch	language/origin
+jazzy	mood/character
+lovely	mood/character
+singer songwriter	genre
+rock en espanol	genre
+contemporary jazz	genre
+brilliant	mood/character
+driving	activity
+dark ambient	genre
+christian metal	genre
+post-grunge	genre
+urban	genre
+tech house	genre
+roots	genre
+scottish	genre
+electro house	genre
+spoken word	genre
+contemporary christian	genre
+sweden	location
+eurodance	genre
+calm	mood/character
+uplifting	mood/character
+chanson	genre
+space rock	genre
+goth	genre
+heavy	mood/character
+latin pop	genre
+africa	location
+scandinavian	language/origin
+stoner	genre
+breaks	genre
+stand-up comedy	genre
+alt rock	genre
+samba	genre
+france	location
+viking metal	genre
+deep house	genre
+finland	location
+oi	genre
+motown	genre
+west coast	location
+humor	mood/character
+late night	activity
+freedom	mood/character
+jazz rock	genre
+emotional	mood/character
+new york	location
+latino	language/origin
+haunting	mood/character
+surf	activity
+stoner metal	genre
+synth	instrument
+experimental rock	genre
+quirky	mood/character
+nostalgia	mood/character
+portugal	location
+electroclash	genre
+ragga	genre
+portuguese	language/origin
+cute	mood/character
+work	genre
+easy	mood/character
+argentina	location
+california	location
+handclaps	instrument
+electro-industrial	genre
+weird	mood/character
+10s	decade
+latin jazz	genre
+glitch	genre
+jazz instrumental	genre
+retro	mood/character
+texas	location
+speed	mood/character
+adult contemporary	genre
+italiana	language/origin
+night	activity
+laidback	mood/character
+breakcore	genre
+underground	genre
+math rock	genre
+skate punk	genre
+jamaica	location
+symphonic black metal	genre
+krautrock	genre
+belgian	language/origin
+drums	instrument
+intense	mood/character
+sing along	activity
+strings	instrument
+rocksteady	genre
+sex	activity
+czech	language/origin
+trumpet	instrument
+east coast rap	genre
+latin rock	genre
+brutal	mood/character
+drone	genre
+turntablism	genre
+banjo	instrument
+west coast rap	genre
+world fusion	genre
+deep	mood/character
+ethnic	genre
+acoustic guitar	instrument
+reggaeton	genre
+danish	language/origin
+black	genre
+alternative pop	genre
+close harmony	mood/character
+quiet	mood/character
+dirty south	genre
+northern soul	genre
+doo wop	genre
+violin	instrument
+hot	mood/character
+spain	location
+morning	activity
+soothing	mood/character
+sensual	mood/character
+trippy	mood/character
+cuba	location
+mexico	location
+sleep	activity
+dream	mood/character
+peaceful	mood/character
+miscellaneous	genre
+space	mood/character
+delta blues	genre
+cuban	language/origin
+grime	genre
+instrumental rock	genre
+germany	location
+traditional	genre
+bittersweet	mood/character
+goa trance	genre
+inspirational	mood/character
+drinking	activity
+energy	mood/character
+beat	mood/character
+jungle	genre
+prog rock	genre
+badass	mood/character
+riot grrrl	genre
+berlin	location
+slowcore	genre
+neoclassical	genre
+alternative country	genre
+angry	mood/character
+rockin	genre
+irish folk	genre
+sludge metal	genre
+norway	location
+avant-garde metal	genre
+arabic	language/origin
+new zealand	location
+new orleans	location
+dance pop	genre
+afrobeat	genre
+downbeat	genre
+poetry	genre
+powerful	mood/character
+proto-punk	genre
+free jazz	genre
+seattle	location
+tango	genre
+san francisco	location
+bay area	location
+lovers rock	genre
+straight edge	genre
+positive	mood/character
+grind	mood/character
+meditation	activity
+surf rock	genre
+big beat	genre
+rainy day	mood/character
+new romantic	genre
+rave	genre
+lush	mood/character
+hypnotic	mood/character
+madchester	genre
+canada	location
+quiet storm	genre
+glam	genre
+mexican	language/origin
+harmonica	instrument
+balkan	language/origin
+dope	mood/character
+post-metal	genre
+aggressive	mood/character
+british folk	genre
+flute	instrument
+french pop	genre
+attitude	mood/character
+europop	genre
+orchestral	genre
+bebop	genre
+freak folk	genre
+acid	genre
+nostalgic	mood/character
+east coast	location
+gypsy	genre
+chicago	location
+mood music	genre
+england	location
+j-pop	genre
+greek	language/origin
+alternative pop rock	genre
+warm	mood/character
+aussie	language/origin
+cool jazz	genre
+underground rap	genre
+religious	genre
+jam bands	genre
+gorgeous	mood/character
+blue-eyed soul	genre
+silly	mood/character
+crazy	mood/character
+road trip	activity
+belgium	location
+inspiring	mood/character
+ccm	genre
+classic soul	genre
+australia	location
+garage punk	genre
+neo-prog	genre
+crust	genre
+modern country	genre
+fiddle	instrument
+no wave	genre
+wistful	mood/character
+electric blues	genre
+songwriter	genre
+indian	language/origin
+video game music	genre
+chile	location
+magic	mood/character
+turkish	language/origin
+organ	instrument
+spiritual	mood/character
+praise	mood/character
+roots rock	genre
+quebec	location
+duet	instrument
+brass	instrument
+chicago blues	genre
+mod	genre
+cabaret	genre
+bachata	genre
+cumbia	genre
+modern jazz	genre
+contemporary folk	genre
+guitar solo	instrument
+sentimental	mood/character
+hammond	instrument
+fantastic	mood/character
+jangle pop	genre
+folk pop	genre
+anti-folk	genre
+guilty pleasure	mood/character
+chamber pop	genre
+gangsta	genre
+tribal	genre
+fado	genre
+goth rock	genre
+quebecois	language/origin
+musical	genre
+joyful	mood/character
+adult alternative pop rock	genre
+italo disco	genre
+rumba	genre
+percussion	instrument
+workout	activity
+southern gospel	genre
+waltz	genre
+happy hardcore	genre
+disney	genre
+hard bop	genre
+country pop	genre
+playful	mood/character
+colombia	location
+background	genre
+piano jazz	genre
+gentle	mood/character
+loud	mood/character
+punk-pop	genre
+austin	location
+hungarian	language/origin
+sleepy	mood/character
+bouncy	mood/character
+minimalism	genre
+noise pop	genre
+conscious	mood/character
+eerie	mood/character
+italian pop	genre
+french house	genre
+hard dance	genre
+mali	location
