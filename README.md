@@ -3,7 +3,7 @@
 Dataset preprocessor for current music semantic dataset
 
 <p align = "center">
-<img src = "https://imgur.com/a/gDjyFTM">
+<img src = "https://i.imgur.com/LZNLhV0.png">
 </p>
 
 ### Why we made this repo
