@@ -26,6 +26,9 @@ There are now too many datasets and too many data splits. Because of this, if yo
 |      KVT     |  6,787  |  19  |    42    |  22.78  |       |   ✅   |       |   ✅   |      |       |    ✅    |
 
 
+### Reference
+will be updated
+
 - MSD: 
     - standard split: https://github.com/jongpillee/music_dataset_split
     - allmusic split: https://github.com/tuwien-musicir/msd
