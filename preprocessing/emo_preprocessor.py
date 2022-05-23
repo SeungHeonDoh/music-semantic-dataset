@@ -30,6 +30,6 @@ def emo_resampler(track_id):
     np.save(save_name, src.astype(np.float32))
 
 def EMO_processor(emo_path):
-    annotation = torch.load(os.path.join(emo_path, "annotation.pt"))
+    print("sry, WIP")
     # pool = multiprocessing.Pool(multiprocessing.cpu_count()-2)
     # pool.map(emo_resampler, list(annotation.keys()))
